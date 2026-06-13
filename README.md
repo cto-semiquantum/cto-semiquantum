@@ -1,120 +1,198 @@
-HARSH JHA
+<div align="center">
 
-CTO @ SEMIQUANTUM
+# HARSH JHA
 
-BUILDING AI SYSTEMS
-AUTOMATION PLATFORMS
-CYBERSECURITY SOLUTIONS
+### CTO // SEMIQUANTUM TECHNOLOGIES
 
-> INITIALIZING FUTURE...
->
-> # ⚡ Harsh Jha
+### AI • AUTOMATION • CYBERSECURITY
 
-### CTO @ SemiQuantum Technologies
+```text
+TRANSMISSION ACTIVE
 
-> Building AI Systems, Automation Platforms, Cybersecurity Solutions & Future Technologies
+> Boot sequence initiated...
+> Loading neural systems...
+> Establishing secure channels...
+> Connecting autonomous agents...
+> Access granted.
+```
 
-```bash
-STATUS      : ONLINE
-ROLE        : CTO
-COMPANY     : SemiQuantum Technologies
-FOCUS       : AI • Automation • Cybersecurity • Full Stack Engineering
-MISSION     : Build technology that solves real-world problems
+</div>
+
+---
+
+# SYSTEM PROFILE
+
+```yaml
+name: Harsh Jha
+role: Chief Technology Officer
+organization: SemiQuantum Technologies
+status: Active
+
+specialization:
+  - Artificial Intelligence
+  - Agentic Systems
+  - Automation Engineering
+  - Cybersecurity
+  - Full Stack Development
+  - Open Source Technologies
+
+mission:
+  Build technology that solves real-world problems.
 ```
 
 ---
 
-## 🚀 About Me
-
-Founder-level builder and technology leader focused on creating practical, scalable systems.
-
-Current interests:
-
-- Artificial Intelligence
-- Agentic AI Systems
-- Automation Engineering
-- Cybersecurity
-- System Architecture
-- Open Source Development
-- Future Computing Platforms
-
----
-
-## 🏗️ Flagship Projects
+# CURRENT OPERATIONS
 
 ### 🧠 SQ OS
-A futuristic operating environment focused on:
 
-- AI-powered workflows
-- Security-first architecture
-- Productivity for developers & creators
-- Intelligent automation
+AI-native operating environment focused on intelligent workflows, automation and next-generation productivity.
 
 ### 💊 Smart MediBox
-AI + IoT healthcare solution designed to improve medication adherence and monitoring.
 
-### 🛡️ Blockchain Examination Security
-Tamper-resistant examination and academic verification platform.
+Healthcare intelligence platform designed to improve medication adherence and patient monitoring.
 
 ### 🚨 FallSafe AI
-AI + IoT elderly fall detection and emergency response system.
 
-### 🌐 SemiQuantum Web Systems
-Business automation platforms, CMS solutions, dashboards, and enterprise applications.
+AI + IoT based emergency detection system for elderly safety and rapid response.
 
----
+### 🔗 Blockchain Examination Security
 
-## ⚙️ Technology Stack
+Tamper-resistant examination verification and academic record protection system.
 
-### Languages
+### 🤖 AI Automation Systems
 
-Python • JavaScript • TypeScript • SQL • HTML • CSS
-
-### Frontend
-
-React • Next.js • TailwindCSS
-
-### Backend
-
-Node.js • Express.js • MongoDB • PostgreSQL • REST APIs
-
-### AI & Emerging Tech
-
-OpenAI • Agentic AI • Automation Systems • Blockchain • IoT
-
-### Tools
-
-Git • GitHub • Linux • Docker • Cloud Platforms
+Autonomous agents, workflow automation and business process optimization solutions.
 
 ---
 
-## 📊 GitHub Analytics
+# TECHNOLOGY ARSENAL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cto-semiquantum&show_icons=true&theme=tokyonight)
+## Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cto-semiquantum&layout=compact&theme=tokyonight)
+```text
+Python
+JavaScript
+TypeScript
+SQL
+HTML
+CSS
+```
+
+## Frontend
+
+```text
+React
+Next.js
+TailwindCSS
+```
+
+## Backend
+
+```text
+Node.js
+Express.js
+MongoDB
+PostgreSQL
+REST APIs
+```
+
+## Artificial Intelligence
+
+```text
+OpenAI
+LLMs
+Agentic AI
+Prompt Engineering
+AI Automation
+RAG Systems
+```
+
+## Infrastructure
+
+```text
+Linux
+Git
+GitHub
+Docker
+Cloud Platforms
+```
 
 ---
 
-## 🎯 Current Objectives
+# ACTIVE OBJECTIVES
 
-- Building SQ OS
-- Scaling SemiQuantum Technologies
-- Developing AI Agents
-- Expanding Open Source Contributions
-- Creating Real-World Automation Systems
+```bash
+[✓] Build real-world AI systems
+
+[✓] Scale SemiQuantum Technologies
+
+[✓] Develop autonomous AI agents
+
+[✓] Create impactful healthcare solutions
+
+[✓] Contribute to open source
+
+[ ] Launch SQ OS
+
+[ ] Expand global technology footprint
+```
 
 ---
 
-## 🌐 Connect
+# GITHUB ANALYTICS
 
-Website: https://harsh.semiquantum.live
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cto-semiquantum&show_icons=true&theme=tokyonight&hide_border=true)
 
-LinkedIn:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cto-semiquantum&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# SYSTEM TIMELINE
+
+```text
+2024 > Building software and real-world projects
+
+2025 > AI, Security and Automation Research
+
+2026 > CTO @ SemiQuantum Technologies
+
+NEXT > SQ OS
+```
+
+---
+
+# NETWORK
+
+🌐 Website  
+https://semiquantum.live
+
+🚀 Portfolio  
+https://harsh.semiquantum.live
+
+💼 LinkedIn  
 https://linkedin.com/in/harshjhasemiquantum
 
 ---
 
-```bash
-> INITIALIZING FUTURE...
+# SYSTEM STATUS
+
+```text
+SEMIQUANTUM NETWORK ONLINE
+
+AI SYSTEMS      ████████████ 100%
+AUTOMATION      ████████████ 100%
+CYBERSECURITY   ████████████ 100%
+
+STATUS: OPERATIONAL
 ```
+
+---
+
+<div align="center">
+
+## THE FUTURE IS NOT PREDICTED.
+
+# IT IS ENGINEERED.
+
+</div>
