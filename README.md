@@ -108,7 +108,7 @@ Git • GitHub • Linux • Docker • Cloud Platforms
 
 ## 🌐 Connect
 
-Website: https://semiquantum.live
+Website: https://harsh.semiquantum.live
 
 LinkedIn:
 https://linkedin.com/in/harshjhasemiquantum
